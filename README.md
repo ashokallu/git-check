@@ -7,3 +7,4 @@ A simple app to manage your daily tasks
 * List of daily tasks 3
 * List of daily tasks 4
 * List of daily tasks 5
+* List of daily tasks 6
