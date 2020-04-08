@@ -9,3 +9,4 @@ A simple app to manage your daily tasks
 * List of daily tasks 5
 * List of daily tasks 6
 * List of daily tasks 7
+* List of daily tasks 8 (master branch)
